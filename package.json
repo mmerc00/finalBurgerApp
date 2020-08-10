@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/mmerc00/finalBurgerApp/issues"
   },
-  "homepage": "https://github.com/mmerc00/finalBurgerApp#readme"
+  "homepage": "https://github.com/mmerc00/finalBurgerApp#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6",
+    "mysql": "^2.18.1"
+  }
 }
