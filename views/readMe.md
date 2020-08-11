@@ -1,3 +1,5 @@
+![demo](burgerAPP.gif)
+
 # Burger App
 
 In this burger app a user is presented with a list of of burger options as well as a choice to create their own. Once devoured or created, they can then re-stock that burger.
